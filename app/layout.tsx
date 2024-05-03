@@ -10,7 +10,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
-  title: "Horizon",
+  title: "Horizon Banking",
   description: "Horizon is a Modern Banking Platform for Everyone.",
   icons: {
     icon: "icons/logo.svg",
