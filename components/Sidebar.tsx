@@ -35,7 +35,6 @@ const Sidebar = ({ user }: SidebarProps) => {
                 "bg-bank-gradient": isActive,
               })}
             >
-              {/* {item.label} */}
               <div className="relative size-6">
                 <Image
                   src={item.imgURL}
